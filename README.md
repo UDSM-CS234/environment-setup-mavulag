@@ -1,3 +1,6 @@
+2020-04-01934 
+Geofrey, Mavula G.
+
 # CS 234 Lab 1: Hello World"
 
 ## 1. Preliminaries
